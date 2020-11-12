@@ -1,0 +1,2 @@
+Parser.o: Parser.cpp Parser.h
+hw06-main.o: hw06-main.cpp Parser.h
